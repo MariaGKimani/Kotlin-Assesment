@@ -23,6 +23,11 @@ fun integers(m: Int,t: Int,x: Int) : Int {
 
 
 }
+//n.o 3
+fun hi ( greeting: String){
+    var greeting = "Hi my name is Maria"
+    println(greeting.split())
+}
 
 
 //n.o 4
