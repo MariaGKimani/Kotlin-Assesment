@@ -10,9 +10,10 @@ fun main() {
     calculator.multiply(3,9)
     calculator.division(0,6)
 }
-fun one(st: String,st1: String){
+//question 1
+fun one(st: String,st1: String): String{
     var st = " I love Kotlin"
-    var str = ""
+    var str = "Mobile applications"
 }
 //n.o 2
 fun integers(m: Int,t: Int,x: Int) : Int {
@@ -21,15 +22,7 @@ fun integers(m: Int,t: Int,x: Int) : Int {
     return numbers.min()
 
 
-
-
 }
-//fun name(taes: String){
-//    var taes = "I love Kotlin"
-//    for Each{t in }
-
-
-//}
 
 
 //n.o 4
